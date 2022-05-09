@@ -3,7 +3,7 @@ import profilepic from '../image/Profileic.jpg'
 function ProfilePic(){
     return(
         <section>
-          <img src={profilepic} alt='profile' width="100px" />
+          <img src={profilepic} alt='profile'  />
         </section>
     )
 }
