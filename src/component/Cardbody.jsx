@@ -2,7 +2,7 @@ import Button from './Button'
 
 function Cardbody(props){
     return(
-        <section className='px-[35px] py-[25px] bg-[#1A1B21]'>
+        <section key={props.index} className='px-[35px] py-[25px] bg-[#1A1B21]'>
           <h1 className='font-bold text-[25px] leading-[30px] text-white text-center'>{props.name}</h1>
           <p className=' text-[12.8px] leading-[15px] text-[#F3BF99] text-center mt-[6px]'>{props.work}</p>
           <p className=' text-[12.8px] leading-[15px] text-white text-center mt-[6px]'>{props.website}</p>

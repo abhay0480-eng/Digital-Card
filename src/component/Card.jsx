@@ -1,13 +1,15 @@
 import Profilepic from './Profilepic'
-import Cardbody from './Cardbody'
 import Cardfooter from './Cardfooter'
+import Cardbody from './Cardbody'
 
 
-function Card(){
+
+function Card(prop){
+  console.log(prop.v)
     return(
-      <section className='bg-[#23252C] w-[550px] h-[900px] py-[44px] px-[116px]'>
+      <section className='bg-[#23252C] w-[550px] h-[950px] py-[44px] px-[116px]'>
         <Profilepic/>
-        <Cardbody  name='Laura Smith' work='Frontend Developer' website='laurasmith.website'/>
+        <Cardbody name = {prop.v.name} work={prop.v.work} website = {prop.v.website}/>
         <Cardfooter/>
       </section>
     )
