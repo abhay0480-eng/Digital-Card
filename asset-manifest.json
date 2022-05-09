@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Digital-Card/static/css/main.073c9b0a.css",
-    "main.js": "/Digital-Card/static/js/main.c65d6999.js",
+    "main.css": "/Digital-Card/static/css/main.14f8a731.css",
+    "main.js": "/Digital-Card/static/js/main.1189b41f.js",
     "static/js/787.74c7cad9.chunk.js": "/Digital-Card/static/js/787.74c7cad9.chunk.js",
-    "static/media/logo.svg": "/Digital-Card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Profileic.jpg": "/Digital-Card/static/media/Profileic.246b817db1b7d9375838.jpg",
+    "static/media/Instagram Icon.svg": "/Digital-Card/static/media/Instagram Icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/GitHub Icon.svg": "/Digital-Card/static/media/GitHub Icon.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/Twitter Icon.svg": "/Digital-Card/static/media/Twitter Icon.5afe82cd446e2896fbe272ab12ef79a4.svg",
+    "static/media/Facebook Icon.svg": "/Digital-Card/static/media/Facebook Icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
     "index.html": "/Digital-Card/index.html",
-    "main.073c9b0a.css.map": "/Digital-Card/static/css/main.073c9b0a.css.map",
-    "main.c65d6999.js.map": "/Digital-Card/static/js/main.c65d6999.js.map",
+    "main.14f8a731.css.map": "/Digital-Card/static/css/main.14f8a731.css.map",
+    "main.1189b41f.js.map": "/Digital-Card/static/js/main.1189b41f.js.map",
     "787.74c7cad9.chunk.js.map": "/Digital-Card/static/js/787.74c7cad9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c65d6999.js"
+    "static/css/main.14f8a731.css",
+    "static/js/main.1189b41f.js"
   ]
 }
